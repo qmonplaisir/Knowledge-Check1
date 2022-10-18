@@ -420,6 +420,14 @@ form > input, form > textarea {
 
 }
 
+@media only screen and (max-width: 768px) {
+
+    .contact-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
 
 /* 	
 =============================================================================
