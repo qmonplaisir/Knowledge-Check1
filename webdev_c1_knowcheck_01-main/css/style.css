@@ -138,13 +138,13 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-start;
     padding: 12px;
     color: #29326a;
 }
 
 .contact-content > a {
-    flex-direction: column;
+    flex-direction: row;
 }
 
 
